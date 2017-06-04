@@ -3,4 +3,4 @@ This tool takes as input, the database populated by the [Account Statement to Da
 
 Currently, the account-balance-timeline for HDFC bank's account statement has been implemented. 
 
-Sample: https://Fa773NM0nK.github.io/AccountStatementReports/src/HDFC/HdfcAccountStatementReports.html
+Sample: https://AnirudhKishan.github.io/AccountStatementReports/src/HDFC/HdfcAccountStatementReports.html
